@@ -11,8 +11,8 @@ This is one of my favortite labs because in part-1 of Lab 8 I was able to code a
 
 * Lab 6
 
-Lab 6 is also another one of my favorites because it gave me insight into how many blackjack computer games and card games could possibly be coded. The objective of this lab was to be able to correctly count the cards no matter how many aces are in play. This lab also helped me realize how hard it can be to create a game of blackjack or any card game. Lab 6 is the lab that i struggled the most on but still learned a lot from even if I never was able to finish the lab. 
+Lab 6 is also another one of my favorites because it gave me insight into how many blackjack computer games and card games could possibly be coded. The objective of this lab was to be able to correctly count the cards no matter how many aces are in play. This lab also helped me realize how hard it can be to create a game of blackjack or any card game. Lab 6 is the lab that I struggled the most on but still learned a lot from even if I never was able to finish the lab. 
 
 * Lab 5 
 
-Lab 5 is another one of my favorite labs because I learned how to convert different mesaruments into their counterparts. For example converting Feet to centimeters and converting yards into miles. This provided me insight into how some programmers could've coded googles measurment converter. Also showed me that something so simple as a measurment converter can be so difficult and time consuming to acomplish sucessfully. 
+Lab 5 is another one of my favorite labs because I learned how to convert different mesaruments into their counterparts. For example converting Feet to centimeters and converting yards into miles. This provided me insight into how some programmers could've coded googles measurment converter. It also showed me that something so simple as a measurment converter can be so difficult and time consuming to acomplish sucessfully. 
