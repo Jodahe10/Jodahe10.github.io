@@ -7,4 +7,4 @@ This is my Portfolio. My name is Jonathan Herrera and I am a student at Cal Stat
 
 * Lab 8
 
-This is one of my favortite labs because in part-1 of Lab 8 I was able to get a better understanding at how to create a service that can asemble and output specifc items or things that a user wants. wasdfwa
+This is one of my favortite labs because in part-1 of Lab 8 I was able to get a better understanding at how to create a service that can asemble and output specifc items or things that a user wants. wasdfwaeasdwe
